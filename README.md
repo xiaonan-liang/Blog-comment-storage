@@ -3,4 +3,4 @@
 
 <a href="xiaonanliang.pages.dev" target="_blank" rel="noopener noreferrer">xiaonanliang.pages.dev</a>
 
-<a href="xiaonan-liang.github.io" target="_blank" rel="noopener noreferrer">xiaonan-liang.github.iov</a>
+<a href="xiaonan-liang.github.io" target="_blank" rel="noopener noreferrer">xiaonan-liang.github.io</a>
